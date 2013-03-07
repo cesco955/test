@@ -2,7 +2,7 @@
 ## Eclipse
 #################
 
-*.pydevprojec
+*.pydevproject test
 .project
 .metadata
 bin/
